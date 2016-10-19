@@ -1,0 +1,6 @@
+# ignore binaries
+bin/
+
+# ignore object files
+build/
+
