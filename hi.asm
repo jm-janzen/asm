@@ -1,13 +1,13 @@
-# export start for linker (nasm specific)
+; export start for linker (nasm specific)
 global _start
 
-#
-#   General 32 bit  registers:
-#       EAX, EBX, ECX, EDX
-#   Commands:
-#       mov - assign second part to first part.
-#       int - software interrupt (0x80 = system call).
-#
+;
+;   General 32 bit  registers:
+;       EAX, EBX, ECX, EDX
+;   Commands:
+;       mov - assign second part to first part.
+;       int - software interrupt (0x80 = system call).
+;
 
 section .text
 _start:
