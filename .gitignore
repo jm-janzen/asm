@@ -4,3 +4,5 @@ bin/
 # ignore object files
 build/
 
+# vim swap files
+*.sw[a-p]
