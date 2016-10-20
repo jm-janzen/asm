@@ -2,7 +2,7 @@ Basic Assembly Makefile and source, for instructional purposes
 
 ### Requirements
 
-`NASM 2.10.09`
+`NASM 2.09.10`
 
 ### Build Instructions
 ```bash
