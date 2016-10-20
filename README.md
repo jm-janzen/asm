@@ -4,6 +4,11 @@ Basic Assembly Makefile and source, for instructional purposes
 
 `NASM 2.09.10`
 
+#### NASM installation
+```bash
+apt-get install nasm
+```
+
 ### Build Instructions
 ```bash
 make     # compile & link
